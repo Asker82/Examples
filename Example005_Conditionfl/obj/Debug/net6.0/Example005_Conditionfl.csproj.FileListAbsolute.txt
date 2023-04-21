@@ -1,0 +1,15 @@
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\obj\Debug\net6.0\Example005_Conditionfl.csproj.AssemblyReference.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\obj\Debug\net6.0\Example005_Conditionfl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\obj\Debug\net6.0\Example005_Conditionfl.AssemblyInfoInputs.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\obj\Debug\net6.0\Example005_Conditionfl.AssemblyInfo.cs
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\obj\Debug\net6.0\Example005_Conditionfl.csproj.CoreCompileInputs.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\bin\Debug\net6.0\Example005_Conditionfl.exe
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\bin\Debug\net6.0\Example005_Conditionfl.deps.json
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\bin\Debug\net6.0\Example005_Conditionfl.runtimeconfig.json
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\bin\Debug\net6.0\Example005_Conditionfl.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\bin\Debug\net6.0\Example005_Conditionfl.pdb
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\obj\Debug\net6.0\Example005_Conditionfl.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\obj\Debug\net6.0\refint\Example005_Conditionfl.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\obj\Debug\net6.0\Example005_Conditionfl.pdb
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\obj\Debug\net6.0\Example005_Conditionfl.genruntimeconfig.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example005_Conditionfl\obj\Debug\net6.0\ref\Example005_Conditionfl.dll
