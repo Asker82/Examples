@@ -1,0 +1,15 @@
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\bin\Debug\net6.0\Exaple003_Sum.exe
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\bin\Debug\net6.0\Exaple003_Sum.deps.json
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\bin\Debug\net6.0\Exaple003_Sum.runtimeconfig.json
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\bin\Debug\net6.0\Exaple003_Sum.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\bin\Debug\net6.0\Exaple003_Sum.pdb
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\obj\Debug\net6.0\Exaple003_Sum.csproj.AssemblyReference.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\obj\Debug\net6.0\Exaple003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\obj\Debug\net6.0\Exaple003_Sum.AssemblyInfoInputs.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\obj\Debug\net6.0\Exaple003_Sum.AssemblyInfo.cs
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\obj\Debug\net6.0\Exaple003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\obj\Debug\net6.0\Exaple003_Sum.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\obj\Debug\net6.0\refint\Exaple003_Sum.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\obj\Debug\net6.0\Exaple003_Sum.pdb
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\obj\Debug\net6.0\Exaple003_Sum.genruntimeconfig.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Exaple003_Sum\obj\Debug\net6.0\ref\Exaple003_Sum.dll
