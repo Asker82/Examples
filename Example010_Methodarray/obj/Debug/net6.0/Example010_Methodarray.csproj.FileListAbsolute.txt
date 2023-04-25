@@ -1,0 +1,15 @@
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\bin\Debug\net6.0\Example010_Methodarray.exe
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\bin\Debug\net6.0\Example010_Methodarray.deps.json
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\bin\Debug\net6.0\Example010_Methodarray.runtimeconfig.json
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\bin\Debug\net6.0\Example010_Methodarray.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\bin\Debug\net6.0\Example010_Methodarray.pdb
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\obj\Debug\net6.0\Example010_Methodarray.csproj.AssemblyReference.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\obj\Debug\net6.0\Example010_Methodarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\obj\Debug\net6.0\Example010_Methodarray.AssemblyInfoInputs.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\obj\Debug\net6.0\Example010_Methodarray.AssemblyInfo.cs
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\obj\Debug\net6.0\Example010_Methodarray.csproj.CoreCompileInputs.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\obj\Debug\net6.0\Example010_Methodarray.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\obj\Debug\net6.0\refint\Example010_Methodarray.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\obj\Debug\net6.0\Example010_Methodarray.pdb
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\obj\Debug\net6.0\Example010_Methodarray.genruntimeconfig.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example010_Methodarray\obj\Debug\net6.0\ref\Example010_Methodarray.dll

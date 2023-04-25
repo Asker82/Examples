@@ -1,0 +1,15 @@
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\obj\Debug\net6.0\Example009_introarray.csproj.AssemblyReference.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\obj\Debug\net6.0\Example009_introarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\obj\Debug\net6.0\Example009_introarray.AssemblyInfoInputs.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\obj\Debug\net6.0\Example009_introarray.AssemblyInfo.cs
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\obj\Debug\net6.0\Example009_introarray.csproj.CoreCompileInputs.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\bin\Debug\net6.0\Example009_introarray.exe
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\bin\Debug\net6.0\Example009_introarray.deps.json
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\bin\Debug\net6.0\Example009_introarray.runtimeconfig.json
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\bin\Debug\net6.0\Example009_introarray.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\bin\Debug\net6.0\Example009_introarray.pdb
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\obj\Debug\net6.0\Example009_introarray.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\obj\Debug\net6.0\refint\Example009_introarray.dll
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\obj\Debug\net6.0\Example009_introarray.pdb
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\obj\Debug\net6.0\Example009_introarray.genruntimeconfig.cache
+C:\Users\kkerr\OneDrive\Документы\GB\C#\Examples\Example009_introarray\obj\Debug\net6.0\ref\Example009_introarray.dll
